@@ -1,0 +1,4 @@
+tensorflowjs
+ipykernel
+openpyxl
+scikit-learn
